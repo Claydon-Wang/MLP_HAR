@@ -1,0 +1,10 @@
+numpy==1.22.0
+torchsummary==1.5.1
+matplotlib==3.7.5
+matplotlib-inline==0.1.7
+fvcore==0.1.5.post20221221
+tensorboardX==2.6.2.2
+scikit-learn==1.4.2
+einops==0.8.0
+
+
