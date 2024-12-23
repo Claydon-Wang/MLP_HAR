@@ -32,7 +32,7 @@ Please see `./data` for WISDM datasets.
 
 ## Quick Start
 
-Please refer to ``./run`` for more info about our scripts. 
+Please refer to ``./script`` for more info about our scripts. 
 
 **1. Training & Evaluation** 
 
@@ -55,5 +55,4 @@ If you find this useful in your research, please consider citing:
   year={2024},
   publisher={IEEE}
 }
-
 ```
